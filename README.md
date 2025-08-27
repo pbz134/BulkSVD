@@ -26,6 +26,7 @@ Features:
 
   # Tutorial
 - Specify the path to chromedriver.exe
+- Set a scan distance for each point (20-50 meters is recommended)
 - Drag Pegman onto any area to access a panorama
 - Copy the browser URL into the downloader
 OR
