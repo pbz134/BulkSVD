@@ -15,7 +15,7 @@ Features:
   ![Batch Download](https://github.com/pbz134/BulkSVD/blob/main/images/Area.PNG)
 
   # Area Scanning
- ![Area Scanning](https://github.com/pbz134/BulkSVD/blob/main/imagesBatch.PNG)
+ ![Area Scanning](https://github.com/pbz134/BulkSVD/blob/main/images/Batch.PNG)
 
 
 # Prerequisites
