@@ -25,6 +25,7 @@ Features:
 
 
   # Tutorial
+- Specify the path to chromedriver.exe
 - Drag Pegman onto any area to access a panorama
 - Copy the browser URL into the downloader
 OR
