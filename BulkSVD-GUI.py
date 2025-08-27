@@ -1045,7 +1045,7 @@ class StreetViewDownloaderGUI(QMainWindow):
         self.initUI()
         
     def initUI(self):
-        self.setWindowTitle('Google Street View Downloader')
+        self.setWindowTitle('BulkSVD v1.0.0 - https://github.com/pbz134/BulkSVD')
         self.setGeometry(100, 100, 1000, 700)
         
         # Set application style
@@ -1792,4 +1792,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     sys.exit(main())
