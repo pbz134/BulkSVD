@@ -9,13 +9,19 @@ Features:
 
 
   # Single Panorama Download
-  https://github.com/pbz134/BulkSVD/blob/main/images/Single.PNG
+  ![Single Panorama Download](https://github.com/pbz134/BulkSVD/blob/main/images/Single.PNG)
 
   # Batch Download
-  https://github.com/pbz134/BulkSVD/blob/main/images/Batch.PNG
+  ![Batch Download](https://github.com/pbz134/BulkSVD/blob/main/images/Batch.PNG)
 
   # Area Scanning
-  https://github.com/pbz134/BulkSVD/blob/main/images/Area.PNG
+ ![Area Scanning](https://github.com/pbz134/BulkSVD/blob/main/images/Area.PNG)
+
+
+# Prerequisites
+- Python 3.10 or higher
+- Have Google Chrome installed on your system
+- chromedriver.exe: https://googlechromelabs.github.io/chrome-for-testing/
 
 
   # Tutorial
@@ -25,4 +31,12 @@ OR
 - Copy the top left and bottom right coordinates of your desired area by right-clicking on Google Maps
 - Replace dots with comma
 - Insert the coordinates accordingly:
-https://github.com/pbz134/BulkSVD/blob/main/images/Shirakawa.PNG
+![Coordinate Tutorial](https://github.com/pbz134/BulkSVD/blob/main/images/Shirakawa.PNG)
+
+
+# To Do
+- Remove `Error: 'NoneType' object has no attribute 'startswith'` error, aka incorrect panorama links
+- Improve Area Scanning process
+
+
+Be mindful of IP bans! Do not download panoramas with more than one instance at once!
